@@ -3,5 +3,5 @@ services:
     image: simple_company_app
     container_name: simple_company
     ports:
-      - "4000:4000"
+      - "4000:3000"
     restart: always
